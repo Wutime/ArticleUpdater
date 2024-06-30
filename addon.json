@@ -1,0 +1,11 @@
+    {
+        "title": "[Wutime] Article Updater",
+        "description": "Appends a link to the bottom of article posts.",
+        "version_id": 1000010,
+        "version_string": "1.0.0",
+        "dev": "Wutime",
+        "dev_url": "https://www.wutime.com/",
+        "require": {
+            "XF": [2010000, "XenForo 2.1.0+"]
+        }
+    }
